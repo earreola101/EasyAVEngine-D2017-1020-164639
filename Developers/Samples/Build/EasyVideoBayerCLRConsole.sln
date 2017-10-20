@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EasyVideoBayerCLRCmd", "..\EasyVideo\EasyVideoBayerCLRConsole\EasyVideoBayerCLRConsole.vcxproj", "{445C93E7-2471-4422-A918-6E1D209C433E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{445C93E7-2471-4422-A918-6E1D209C433E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{445C93E7-2471-4422-A918-6E1D209C433E}.Debug|Win32.Build.0 = Debug|Win32
+		{445C93E7-2471-4422-A918-6E1D209C433E}.Release|Win32.ActiveCfg = Release|Win32
+		{445C93E7-2471-4422-A918-6E1D209C433E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Image Include=".\res\ApplicationIcon.ico">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include=".\res\camera.ico">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include=".\res\error.ico">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include=".\res\icon1.ico">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include=".\res\icon2.ico">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include=".\res\Info.ico">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include=".\res\MFCTabDoc.ico">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include=".\res\search.ico">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include=".\res\Shield.ico">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include=".\res\SINEWAVE.ICO">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include=".\res\Toolbar.bmp">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include=".\res\warning.ico">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include=".\res\WRENCH.ICO">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".\res\EasyVideoBayer3.rc2">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include=".\res\MFCTabTool.rc2">
+      <Filter>Resources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{c5ee394f-4c54-46bf-b8ff-bacfc05054f1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include=".\EasyVideoBayer3Dlg.cpp" />
+    <ClCompile Include=".\EasyVideoBayer3WinApp.cpp" />
+    <ClCompile Include=".\stdafx.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include=".\EasyVideoBayer3Dlg.h" />
+    <ClInclude Include=".\EasyVideoBayer3WinApp.h" />
+    <ClInclude Include=".\Resource.h" />
+    <ClInclude Include=".\stdafx.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include=".\EasyVideoBayer3.rc" />
+  </ItemGroup>
+</Project>
